@@ -1,8 +1,11 @@
 # Scraping-videogames-data
 
-In this repo : scraping from metacritic.com with BeautifulSoup
+## In this repo : scraping from metacritic.com with BeautifulSoup
 
-Time calculation : 11min
+<img src="https://github.com/AmauryMaros/Scraping-videogames-data/blob/main/metacritic.png">
+
+
+### Time calculation : 11min
 
 The csv file from the scraping is in the repo as "metacritic.csv"
 
