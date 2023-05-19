@@ -11,3 +11,5 @@ We get 20273 lines with :
   * Metascore : the score from metacritic redaction
   * Userscore : the score from metacritic users
   * URL : add "https://www.metacritic.com" to get the entire URL 
+
+There are 1411 NaN in the Userscore column because this score is not filled in
