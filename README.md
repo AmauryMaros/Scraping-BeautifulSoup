@@ -4,6 +4,8 @@ In this repo : scraping from metacritic.com with BeautifulSoup
 
 Time calculation : 11min
 
+The csv file from the scraping is in the repo as "metacritic.csv"
+
 We get 20273 lines with :
   * Name : the name of the game
   * Platform : the platform of the game
