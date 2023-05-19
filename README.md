@@ -2,6 +2,8 @@
 
 In this repo : scraping from metacritic.com with BeautifulSoup
 
+Time calculation : 11min
+
 We get 20273 lines with :
   * Name : the name of the game
   * Platform : the platform of the game
